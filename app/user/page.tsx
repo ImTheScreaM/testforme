@@ -3,7 +3,7 @@
 export default function User() {
 	return (
 		<div>
-			Hello asd
+			Hello asd1
 		</div>
 	)
 }
